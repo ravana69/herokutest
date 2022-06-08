@@ -1,0 +1,13 @@
+aiohttp
+beautifulsoup4
+hachoir
+numpy
+Pillow
+pyrogram==2.0.27
+requests
+tgcrypto
+yt-dlp
+olefile
+lk21
+filetype
+tldextract
